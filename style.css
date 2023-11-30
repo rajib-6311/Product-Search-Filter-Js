@@ -1,0 +1,47 @@
+/* body{
+    background-color: rgb(14, 128, 228);
+}
+.card{
+    margin: 100px 300px;
+    border: none;
+    box-shadow: 5px 5px 10px white ;
+   
+}
+.card-body{
+    padding-left: 20px;
+}
+ .card-body{
+    box-shadow: white;
+    border-radius: 10px;
+
+} 
+
+.img{
+    height: 70px;
+    padding-left: 1px;
+    
+}
+.margin{
+    margin-top: 10px;
+    width: 300px;
+    
+}
+.br-t{
+    border: 2px solid red;
+   width: 500px;
+   height: 40px;
+}
+#search{
+    width: 200px;
+} */
+
+.size-col{
+    border: 1px solid red;
+    margin-top: 10px;
+}
+.img-size{
+    height: 70px;
+}
+#search{
+    margin-top: 100px;
+}
